@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #88b7f0;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    border-bottom: 2px solid darkblue;
+}
+
+img {
+    width: 35%; /* Resizes to 50% of the original width */
+    height: auto; /* Keeps the aspect ratio */
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
